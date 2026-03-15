@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Disease Prophecy By Symptoms</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+.hero{
+    background:url('{{ url_for("static", filename="hero.jpg") }}') center/cover no-repeat;
+    height:380px;
+}
+.section{
+    background:#eaf6f3;
+    padding:60px;
+}
+</style>
+</head>
+
+<body>
+
+<nav class="navbar navbar-light bg-white px-4 shadow-sm">
+  <h5 class="text-primary fw-bold">➕ Disease Prophecy By Symptoms</h5>
+  <div>
+    <a href="{{ url_for('home_page') }}" class="me-3">Home</a>
+    <a href="{{ url_for('login') }}" class="btn btn-success me-2">Login</a>
+    <a href="{{ url_for('signup') }}" class="btn btn-success me-2">Signup</a>
+  </div>
+</nav>
+
+<div class="hero"></div>
+
+<div class="section row">
+  <div class="col-md-6">
+    <h4><b>Be Your Own Doctor !</b></h4>
+    <p>
+            It could have happened so often that you or somebody yours need
+            specialist's assistance right away, yet they are not accessible
+            because of some reasons. <br>
+            This Disease Prophecy By Symptoms predicts diseases based on symptoms
+            provided by the patient. It helps users take early precautions
+            and consult specialists when needed.
+        </p>
+      </div>
+    <div class="col-md-6">
+    <h4><b>About My Project</b></h4>
+    <p>
+            Disease Predicted based on symptoms provided by patient
+            and provide medical suggestion .
+        </p>
+
+        <h5>Using Library of Python</h5>
+    <ul>
+      <li>NumPy – Numerical Processing</li>
+      <li>Pandas – Data Handling</li>
+      <li>Scikit-learn – ML Algorithms</li>
+      <li>Random Forest Classifier - ML Algorithms</li>
+    </ul>
+  </div>
+</div>
+
+</body>
+</html>
