@@ -5,4 +5,4 @@ It might have happened so many times that you or someone yours need doctor's hel
 # PURPOSE
 The purpose of this project is to create a platform which uses machine learning to predict the patient's disease based on the symptoms provided. This system can be really usefull to assist physicians as well as patients to predict diseases based on symptoms of the patient which minimizes their mistakes and increases the chance of the disease being indentified.
 # Sample Design
-![Uploading Home Page.png…]()
+![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/494204d32e07d3d45448035a03bd7d5032944bd3/Disease%20Prophecy%20by%20symptoms%20project%20images/Home%20Page.png)
