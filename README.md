@@ -11,4 +11,4 @@ The purpose of this project is to create a platform which uses machine learning 
 ![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/860a7420d67c5584236d64cbb220cf5477b7fe17/Disease%20Prophecy%20by%20symptoms%20project%20images/Predict%20Page.png)
 ![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/420ddfeff196a4e6bf06144379e8eebf741274fb/Disease%20Prophecy%20by%20symptoms%20project%20images/Predict%20Result%20Page.png)
 ![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/0806050e7daed73dfa2074503ab97dec9a836be3/Disease%20Prophecy%20by%20symptoms%20project%20images/Predicted%20Result.png)
-NOTE: Here i took sample Dataset to predict,The accurate Dataset helps to use this application in real time.
+NOTE: Here i took sample Dataset to predict,the accurate Dataset helps to use this application in real time.
