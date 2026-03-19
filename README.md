@@ -8,3 +8,4 @@ The purpose of this project is to create a platform which uses machine learning 
 ![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/494204d32e07d3d45448035a03bd7d5032944bd3/Disease%20Prophecy%20by%20symptoms%20project%20images/Home%20Page.png)
 ![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/7a63237f07d5fce2ccd5aa88fb1b566dc2bcc471/Disease%20Prophecy%20by%20symptoms%20project%20images/Signup%20Page.png)
 ![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/8e57739bcb47b639f8c535b56cdd37b06b7a600d/Disease%20Prophecy%20by%20symptoms%20project%20images/Login%20Page.png)
+![image alt](https://github.com/Vinuthask10/Disease-Prophecy-by-Symptoms/blob/860a7420d67c5584236d64cbb220cf5477b7fe17/Disease%20Prophecy%20by%20symptoms%20project%20images/Predict%20Page.png)
